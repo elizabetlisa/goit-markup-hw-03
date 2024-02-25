@@ -70,8 +70,7 @@ button{
     gap: 40px;
 }
 .header-container .list-item{
-    padding-top: 24px;
-    padding-bottom: 24px;
+padding: 24px 0;
 }
 .nav-menu{
     display: flex;
