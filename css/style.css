@@ -29,8 +29,7 @@ button{
     border-bottom: 1px solid #e7e9fc;
 }
 .studio-container{
-    padding-top: 188px;
-    padding-bottom: 292px;
+    padding: 188px 0;
     height: 600px;
     background-color: #2e2f42;
 }
@@ -39,7 +38,7 @@ button{
     margin-right: auto;
     margin-left: auto;
     margin-bottom: 48px;
-    width: 496px;
+    max-width: 496px;
 }
 .studio .btn{
     align-items: center;
@@ -129,7 +128,7 @@ button{
     color: #ffffff;
 }
 .btn{
-    display: flex;
+    display: block;
     padding: 16px 32px;
     background-color: #4D5AE5;
     font-weight: 500;
