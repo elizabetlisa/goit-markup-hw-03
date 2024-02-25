@@ -68,10 +68,8 @@ button{
 }
 .nav-menu .list{
     gap: 40px;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
-.header-address .list{
+.header-container .list-item{
     padding-top: 24px;
     padding-bottom: 24px;
 }
