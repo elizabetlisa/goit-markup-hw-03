@@ -143,17 +143,24 @@ button{
     height: 56px;
 }
 .portfolio-list{
+    gap: 24px;
     display: flex;
 }
 .portfolio-list-item{
-    max-width: 264;
     margin-left: auto;
     margin-right: auto;
-    gap: 24px;
+    width: calc((100% - 72px) / 4);
 }
-.hiden{
-    display: none;
-}
+.visually-hidden {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            margin: -1px;
+            padding: 0;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            border: 0;
+        }
 .portfolio{
     padding-top: 120px;
     padding-bottom: 120px;
