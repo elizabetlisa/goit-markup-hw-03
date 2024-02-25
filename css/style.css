@@ -69,8 +69,11 @@ button{
 .nav-menu .list{
     gap: 40px;
 }
-.header-container .list-item{
-padding: 24px 0;
+.nav-menu .list-item{
+    padding: 24px 0;
+}
+.header-address .list-item{
+    padding: 24px 0;
 }
 .nav-menu{
     display: flex;
