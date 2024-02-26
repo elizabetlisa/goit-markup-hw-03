@@ -163,6 +163,9 @@ button{
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+.contacts{
+    padding: 120px 0;
+}
 .portfolio{
     padding-top: 120px;
     padding-bottom: 120px;
