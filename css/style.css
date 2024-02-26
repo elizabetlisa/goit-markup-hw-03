@@ -68,7 +68,8 @@ button{
 .nav-menu .list{
     gap: 40px;
 }
-.header-container{
+.header-container  .link{
+    display: block;
     padding: 24px 0;
 }
 /*.header-address .list-item{
