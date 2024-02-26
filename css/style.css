@@ -69,7 +69,7 @@ button{
     gap: 40px;
 }
 .nav-list-item{
-    padding: 24px 0;
+    margin: 24px 0;
 }
 .header-address .list-item{
     padding: 24px 0;
