@@ -280,7 +280,7 @@ text-align: center;
 .contacts .about-page{
     margin-bottom: 72px;
 }
-.our-portfolio .list{
+.our-portfolio .text-section{
     row-gap: 48px;
 }
 .our-portfolio .list{
@@ -295,7 +295,8 @@ text-align: center;
 }
 .div-our-portfolio{
     padding: 32px 16px;
-    border: 1px solid #e7e9fc;  
+    border: 1px solid #e7e9fc; 
+    border-top: none;
 }
 .our-portfolio{
     padding-top: 120px;
